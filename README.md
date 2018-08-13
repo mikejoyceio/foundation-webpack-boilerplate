@@ -14,7 +14,7 @@ $ git clone https://github.com/mikejoyceio/foundation-webpack-boilerplate
 
 ###### Install Yarn
 
-Yarn can be installed through the [Homebrew package manager](https://brew.sh/). This will also install [Node.js](https://nodejs.org/) (which is required) if it is not already installed.
+[Yarn](https://yarnpkg.com/) can be installed through the [Homebrew package manager](https://brew.sh/). This will also install [Node.js](https://nodejs.org/) (which is required) if it is not already installed.
 
 Details installation instructions for all operating systems can be found [here](https://yarnpkg.com/en/docs/install)
 
@@ -38,7 +38,7 @@ $ yarn run dev
 
 ## The Build
 
-[Webpack](https://webpack.js.org/) is a JavaScript module bundler that generates static assets, and takes care of a number of common frontend tasks in this boilerplate.
+[Webpack](https://webpack.js.org/) takes care of a number of common frontend tasks in this boilerplate.
 
 ###### Development
 
@@ -57,5 +57,6 @@ $ yarn run prod
 ###### Documentation
 
 - [Foundation 6](https://foundation.zurb.com/sites/docs/)
-- [Webpack](https://webpack.js.org/concepts/)
 - [Sass](https://sass-lang.com/guide)
+- [Webpack](https://webpack.js.org/concepts/)
+- [Yarn](https://yarnpkg.com/)
