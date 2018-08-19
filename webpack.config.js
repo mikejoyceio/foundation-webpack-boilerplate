@@ -88,7 +88,7 @@ module.exports = {
     `${config.src}/js/index.js`
   ],
   output: {
-    path: `${config.dist}`,
+    path: config.dist,
     filename: 'js/app.js',
   },
   resolve: {
